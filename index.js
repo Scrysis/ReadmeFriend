@@ -31,24 +31,40 @@ ${installationInstructions}
 
 ## Usage
 
+Repository Link:
 ${repolink}
+
+Usage Instructions:
 ${instructions}
-${screenshot}
+
+Media:
+![Image](${screenshot})
 
 ## Credits
 
+Collaborators:
 ${collaborators}
+Collaborator Links:
 ${collaboratorLinks}
+Third Party Links:
 ${thirdpartyLinks}
 
 ## License
+
+User License:
 ${license}
 
 ## Features
+
 ${features}
+
 ## How to Contribute
+
+How you can contribute:
 ${contribute}
+
 ## Tests
+Testing protocol of the application:
 ${tests}`;
 
 

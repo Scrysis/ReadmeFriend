@@ -12,26 +12,42 @@ A backend application designed to make creating Readme files for projects easy a
 
 ## Installation
 
-1) Install node v. 8.2.4  2) run npm install while the terminal is opened to the project directory.
+1) Install node version 8.2.4, 2) run "npm install" while the terminal is opened to the project directory.
 
 ## Usage
 
+Repository Link:
 https://github.com/Scrysis/ReadmeFriend
-Make your terminal go to this project folder.  Type "node index.js" into the terminal, then hit enter.  Then follow the questions.
-[](.\assets\153636.jpg)
+
+Usage Instructions:
+Open up this project folder in your terminal.  Then type "node index.js" into the terminal, and hit enter.  Then answer the following questions.
+
+Media:
+![Image](assets\153636.jpg)
 
 ## Credits
 
-N/A
-N/A
-N/A
+Collaborators:
+Partial discussion with Jessica Clark about options.
+Collaborator Links:
+https://github.com/jessclark1234 
+Third Party Links:
+None.
 
 ## License
+
+User License:
 GNU License
 
 ## Features
-Easy and straightforward Readme creation!
+
+Type in information, get a nice readme file when done.
+
 ## How to Contribute
-Users can leave feedback about bugs and features they would like to see implemented on the Git Repository.
+
+How you can contribute:
+Comment on bugs or features you would like to see as a user!
+
 ## Tests
-Manual testing of the application.
+Testing protocol of the application:
+Manual testing.
