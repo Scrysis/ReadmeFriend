@@ -23,7 +23,7 @@ Usage Instructions:
 Open up this project folder in your terminal.  Then type "node index.js" into the terminal, and hit enter.  Then answer the following questions.
 
 Media:
-![Image](assets\153636.jpg)
+![Image](assets/153636.jpg)
 
 ## Credits
 
