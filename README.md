@@ -25,6 +25,7 @@ Open up this project folder in your terminal.  Then type "node index.js" into th
 Media:
 ![Image](assets/153636.jpg)
 [assets/](https://github.com/Scrysis/ReadmeFriend/blob/main/assets/Make%20a%20readme%20file_.webm)
+https://youtu.be/yN97cIrTcw8
 
 
 ## Credits
